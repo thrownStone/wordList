@@ -27,3 +27,4 @@ effectively					                        |实际上地
 empirical					                          |adj. 实证的；经验主义的，完全根据经验的
 pursuit						                          |n. 追赶；执行；追求
 regarding												|prep. 关于，至于；就……而论
+convention												|n. 约定、习俗
